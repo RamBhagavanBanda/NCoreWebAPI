@@ -1,0 +1,11 @@
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\D_Documents\Visual Studio 2017\HPlusSportsAPI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
